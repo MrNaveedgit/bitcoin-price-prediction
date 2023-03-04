@@ -18,7 +18,6 @@ We implemented several simple moving average forecasting methods with different 
 We trained these models on the historical data and used them to make predictions about future Bitcoin prices.
 
 # Results
-We evaluated the performance of the simple moving average methods and the naive method using  mean absolute percentage error, (MAPE) and root mean squared error (RMSE). The MSE and RMSE for each method are shown below:
 
 ![Result Graph](https://github.com/MrNaveedgit/bitcoin-price-prediction/blob/main/results/result.png)
 ![Result Graph](https://github.com/MrNaveedgit/bitcoin-price-prediction/blob/main/results/analysis.png)
